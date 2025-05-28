@@ -1,90 +1,128 @@
-<!-- ——— HERO / BANNER ——— -->
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/Muntazir-security/Muntazir-security/main/assets/banner-dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Muntazir-security/Muntazir-security/main/assets/banner-light.svg" alt="Syed Muntazir Mehdi — Cybersecurity Engineer" width="100%">
-  </picture>
-</p>
+# 👋 Hey there! I'm Syed Muntazir Mehdi
 
-<h1 align="center" style="border:none">👋 Hey, I’m <span style="color:#6366f1">Syed Muntazir Mehdi</span></h1>
-<p align="center">
-  <i>Security Analyst · Purple Teamer · Homelab Enthusiast</i>
-</p>
+<div align="center">
 
-<br/>
+### 🛡️ **Cybersecurity Engineer** | 🔍 **Purple Teamer** | 🏠 **Homelab Enthusiast**
 
-<!-- ——— QUICK LINKS ——— -->
-<p align="center">
-  <a href="https://muntazirmehdi.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-Visit-6366f1?style=for-the-badge&logo=FirefoxBrowser&logoColor=white">
-  </a>
-  <a href="mailto:info@muntazirmehdi.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Write%20me-f43f5e?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/muntazir-security" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+*Building secure systems and breaking them responsibly*
+
+[![Website](https://img.shields.io/badge/🌐_Website-Visit-6366f1?style=for-the-badge)](https://muntazirmehdi.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-f43f5e?style=for-the-badge)](mailto:info@muntazirmehdi.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0a66c2?style=for-the-badge)](https://linkedin.com/in/muntazir-security)
+
+</div>
 
 ---
 
-## 🚀 Current Focus
-|&nbsp;&nbsp;🎯 Goal&nbsp;&nbsp;|&nbsp;&nbsp;Status&nbsp;&nbsp;|
-|---|---|
-|**CompTIA Security+ (SY0-701)** — deep-diving network security, crypto, IR | `📚 Studying` |
-|**Docker-powered homelab** on a mini-PC (Pi-hole, Nextcloud, Jellyfin) | `⚙️ Expanding` |
-|**Research**: Public awareness & behaviour toward data privacy | `✍️ Synthesizing findings` |
+## 🎯 What I'm Up To Right Now
+
+```yaml
+current_mission:
+  studying: "CompTIA Security+ (SY0-701) - Network Security & Incident Response"
+  building: "Docker-powered homelab with Pi-hole, Nextcloud & Jellyfin"
+  researching: "Public awareness of data privacy behaviors"
+  status: "Always learning, always securing 🔒"
+```
 
 ---
 
-<details>
-<summary><strong>🧩 &nbsp;Featured Projects (click to expand)</strong></summary>
+## 🚀 Featured Projects
 
-| Project | Stack | TL;DR |
-|---------|-------|-------|
-| **Transaction-Management System** | C++17 (no STL) | Arrays + Linked Lists, full menu, custom sort/search |
-| **Smart Parking System** | Java Threads & Locks | Multi-gate simulation, `BlockingQueue`, `ReentrantLock` |
-| **Labor App** | Flutter & Firebase | Hire skilled workers, in-app chat, adaptive UI |
-| **Homelab-Compose** | Docker Compose | One-command deploy of Pi-hole, Jellyfin, Nextcloud |
-| **Threat-Hunting Playbooks** | Python, Sigma | Reusable SOC rules + YARA detections |
+<table>
+<tr>
+<td width="50%">
 
-</details>
+### 🏗️ **System Architecture**
+- **Transaction Management System** - Custom C++17 implementation
+- **Smart Parking System** - Java threading & concurrency
+- **Homelab-Compose** - One-command Docker deployment
 
----
+</td>
+<td width="50%">
 
-## 🛠 Tech & Tools
-![Linux](https://img.shields.io/badge/Linux-Arch%20%7C%20RHEL-1793d1?style=flat-square&logo=linux)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp Suite-ff7139?style=flat-square&logo=&logoColor=white)
+### 🔐 **Security & Research**
+- **Threat Hunting Playbooks** - Python & Sigma rules
+- **Labor App** - Secure Flutter & Firebase integration
+- **SOC Automation** - YARA detection rules
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
-`RHCSA` · `eJPTv2` · `ICCA` · `Google Cybersecurity Professional` · `CCNA (Intro + SRWE)`  
-_**Next up:** CompTIA Security+_
+## 🛠️ My Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Security & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+### Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Insight
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muntazir-security&count_private=true&show_icons=true&hide_title=true" alt="stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muntazir-security&theme=default" alt="streak" height="165">
-</p>
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+`🎓 RHCSA` • `🔍 eJPTv2` • `🌐 ICCA` • `🛡️ Google Cybersecurity Professional` • `📡 CCNA (Intro + SRWE)`
+
+**🎯 Next Target:** CompTIA Security+ 
+
+</div>
 
 ---
 
-<details>
-<summary><strong>🤝 &nbsp;Let’s collaborate (open to internships, projects, bug bounties)</strong></summary>
+## 📈 GitHub Analytics
 
-Feel free to raise an issue, open a PR, or just say hi.  
-I love learning in public & trading ideas about **purple-team tactics, DevSecOps pipelines, and secure software design**.
-</details>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muntazir-security&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntazir-security&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<!-- ——— FOOTER QUOTE ——— -->
-<br/>
-<p align="center"><i>“Securing systems is a journey, not a destination.”</i></p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muntazir-security&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+> **Open to:** Internships • Open Source Projects • Bug Bounties • Security Research
+
+I'm passionate about **purple-team tactics**, **DevSecOps pipelines**, and **secure software design**. 
+
+Whether you want to:
+- 🔍 Discuss threat hunting techniques
+- 🏗️ Collaborate on security tools
+- 💬 Share homelab experiences
+- 🎯 Work on vulnerability research
+
+**Let's build something secure together!**
+
+---
+
+<div align="center">
+
+### 💭 *"The best defense is a good offense, but the best offense requires understanding the defense."*
+
+**Always learning • Always securing • Always sharing**
+
+⭐ *If you found my projects helpful, consider starring them!*
+
+</div>
