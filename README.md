@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### 🛡️ **Cybersecurity Engineer** | 🔍 **Security Analyst** | 🏠 **Penetration Tester**
+### 🛡️ **Cybersecurity Professional** | 🔍 **Security Analyst** | 💻 **SDN Researcher**
 
-*Building secure systems and breaking them responsibly*
+*Fresh Computer Science graduate specializing in Cyber Security*
 
-[![Website](https://img.shields.io/badge/🌐_Website-Visit-6366f1?style=for-the-badge)](https://muntazirmehdi.com)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-muntazirmehdi.com-6366f1?style=for-the-badge)](https://muntazirmehdi.com)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-f43f5e?style=for-the-badge)](mailto:info@muntazirmehdi.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0a66c2?style=for-the-badge)](https://linkedin.com/in/muntazir-security)
 
@@ -17,39 +17,16 @@
 ## 🎯 What I'm Up To Right Now
 
 ```yaml
-current_mission:
+current_focus:
   practicing: "TryHackMe & HackTheBox challenges - Sharpening penetration testing skills"
   building: "Docker-powered homelab with Pi-hole, Nextcloud & Jellyfin"
-  status: "Always learning, always securing 🔒"
+  researching: "DDoS mitigation techniques in Software-Defined Networks"
+  interests: ["Network Security", "Threat Detection", "Purple Team Operations"]
 ```
 
 ---
 
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%">
-🔐 Security Research
-
-TCP SYN Flood DDoS Mitigation in SDN - Advanced anomaly detection system for Software-Defined Networks
-Statistical Network Analysis - Real-time traffic monitoring and threat detection
-Critical Infrastructure Protection - Enhanced security for network controllers
-
-</td>
-<td width="50%">
-💻 Development
-
-Personal Portfolio Website - Modern, responsive web presence at muntazirmehdi.com
-Security Tools Development - Custom scripts and automation for penetration testing
-SIEM Integration Projects - Enhanced monitoring and alerting systems
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ My Arsenal
+## 🛠️ My Technical Arsenal
 
 <div align="center">
 
@@ -59,27 +36,34 @@ SIEM Integration Projects - Enhanced monitoring and alerting systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Security & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Red%20Hat-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-### Tools
+### Security Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-MSSGard-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Learning
 
 <div align="center">
 
-`🎓 RH(124)` • `🔍 eJPTv2` • `🌐 ICCA` • `🛡️ Google Cybersecurity Professional` • `📡 CCNA (Intro + SRWE)`
+**Recent Achievements:**
+`🎓 B.Sc. Computer Science (Cyber Security)` • `🔴 RHCSA` • `🕵️ eJPT v2` • `☁️ ICCA` • `🛡️ Google Cybersecurity Professional`
 
-**🎯 Next Target:** CompTIA Security+ 
+**Networking Foundation:**
+`📡 CCNA: Introduction to Networks` • `📡 CCNA: Switching, Routing & Wireless Essentials`
+
+**🎯 Currently Learning:**
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Practicing-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 </div>
 
@@ -100,26 +84,26 @@ SIEM Integration Projects - Enhanced monitoring and alerting systems
 
 ## 🤝 Let's Connect & Collaborate
 
-> **Open to:** Internships • Open Source Projects • Bug Bounties • Security Research
+> **Open to:** Entry-level Security positions • Open Source Projects • Cybersecurity discussions
 
-I'm passionate about **purple-team tactics**, **DevSecOps pipelines**, and **secure software design**. 
+I'm passionate about **network security**, **threat detection**, and **continuous learning**. Always excited to discuss cybersecurity topics, share knowledge, or collaborate on interesting projects.
 
-Whether you want to:
-- 🔍 Discuss threat hunting techniques
-- 🏗️ Collaborate on security tools
-- 💬 Share homelab experiences
-- 🎯 Work on vulnerability research
+**Let's chat about:**
+- 🔍 Penetration testing techniques and methodologies
+- 🛡️ SOC operations and threat hunting
+- 🌐 Software-Defined Network security research
+- 🏠 Homelab setups and self-hosting adventures
 
-**Let's build something secure together!**
+**Visit my portfolio:** [muntazirmehdi.com](https://muntazirmehdi.com)
 
 ---
 
 <div align="center">
 
-### 💭 *"The best defense is a good offense, but the best offense requires understanding the defense."*
+### 💭 *"Security is not a product, but a process of continuous improvement."*
 
-**Always learning • Always securing • Always sharing**
+**🎓 Fresh Graduate • 🔍 Always Learning • 🌐 Security Enthusiast**
 
-⭐ *If you found my projects helpful, consider starring them!*
+⭐ *Found something interesting in my repos? Let's discuss!*
 
 </div>
