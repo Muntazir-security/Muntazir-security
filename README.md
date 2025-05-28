@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🛡️ **Cybersecurity Professional** | 🔍 **Security Analyst** | 💻 **SDN Researcher**
+### 🛡️ **Cybersecurity Professional** | 🔍 **Security Analyst** | 💻 **VAPT**
 
 *Fresh Computer Science graduate specializing in Cyber Security*
 
