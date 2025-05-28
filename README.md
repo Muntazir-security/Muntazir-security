@@ -20,7 +20,6 @@
 current_focus:
   practicing: "TryHackMe & HackTheBox challenges - Sharpening penetration testing skills"
   building: "Docker-powered homelab with Pi-hole, Nextcloud & Jellyfin"
-  researching: "DDoS mitigation techniques in Software-Defined Networks"
   interests: ["Network Security", "Threat Detection", "Purple Team Operations"]
 ```
 
