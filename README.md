@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🛡️ **Cybersecurity Engineer** | 🔍 **Purple Teamer** | 🏠 **Homelab Enthusiast**
+### 🛡️ **Cybersecurity Engineer** | 🔍 **Security Analyst** | 🏠 **Penetration Tester**
 
 *Building secure systems and breaking them responsibly*
 
@@ -18,32 +18,30 @@
 
 ```yaml
 current_mission:
-  studying: "CompTIA Security+ (SY0-701) - Network Security & Incident Response"
+  practicing: "TryHackMe & HackTheBox challenges - Sharpening penetration testing skills"
   building: "Docker-powered homelab with Pi-hole, Nextcloud & Jellyfin"
-  researching: "Public awareness of data privacy behaviors"
   status: "Always learning, always securing 🔒"
 ```
 
 ---
 
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
 <tr>
 <td width="50%">
+🔐 Security Research
 
-### 🏗️ **System Architecture**
-- **Transaction Management System** - Custom C++17 implementation
-- **Smart Parking System** - Java threading & concurrency
-- **Homelab-Compose** - One-command Docker deployment
+TCP SYN Flood DDoS Mitigation in SDN - Advanced anomaly detection system for Software-Defined Networks
+Statistical Network Analysis - Real-time traffic monitoring and threat detection
+Critical Infrastructure Protection - Enhanced security for network controllers
 
 </td>
 <td width="50%">
+💻 Development
 
-### 🔐 **Security & Research**
-- **Threat Hunting Playbooks** - Python & Sigma rules
-- **Labor App** - Secure Flutter & Firebase integration
-- **SOC Automation** - YARA detection rules
+Personal Portfolio Website - Modern, responsive web presence at muntazirmehdi.com
+Security Tools Development - Custom scripts and automation for penetration testing
+SIEM Integration Projects - Enhanced monitoring and alerting systems
 
 </td>
 </tr>
@@ -59,7 +57,6 @@ current_mission:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Security & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -80,7 +77,7 @@ current_mission:
 
 <div align="center">
 
-`🎓 RHCSA` • `🔍 eJPTv2` • `🌐 ICCA` • `🛡️ Google Cybersecurity Professional` • `📡 CCNA (Intro + SRWE)`
+`🎓 RH(124)` • `🔍 eJPTv2` • `🌐 ICCA` • `🛡️ Google Cybersecurity Professional` • `📡 CCNA (Intro + SRWE)`
 
 **🎯 Next Target:** CompTIA Security+ 
 
